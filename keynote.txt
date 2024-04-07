@@ -1,0 +1,1 @@
+In project 1, we used global css. The drawback of using global css is it cause conflict in class name so in this project 2, we use css modules so that dedicated components have dedicated components that removes conflicts. 
